@@ -1,4 +1,4 @@
-# Estado de integración del proyecto
+# Estado de integración del proyecto ok
 
 [![Build Status](https://travis-ci.com/organizacion-sesion-3-Manuel-Arnau/sesion5-1-travis.svg?branch=master)](https://travis-ci.com/organizacion-sesion-3-Manuel-Arnau/sesion5-1-travis)
 # Ejemplo de proyecto de integración continua
